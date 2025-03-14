@@ -3,7 +3,7 @@ Persamaan Matematis
 
 1.   Mean Squared Error (MSE)
 
-> MSE mengukur rata rata selisih kuadrat antara nilai prediksi dan nilai aktual. Nilai prediksi adalah harga barang bekas. Semakin kecil nilai MSE, semakin baik prediksi model
+> MSE mengukur rata rata selisih kuadrat antara nilai prediksi dan nilai aktual. Nilai prediksi adalah rata-rata suhu Oral. Semakin kecil nilai MSE, semakin baik prediksi model
 
 2.   Root Mean Squared Error (RMSE)
 
