@@ -3,15 +3,15 @@ Persamaan Matematis
 
 1.   Mean Squared Error (MSE)
 
-> Teknik mengukur kesalahan model dengan menghitung rata-rata selisih kuadrat dari nilai asli dengan nilai prediksi. Semakin kecil nilai MSE semakin baik
+> MSE mengukur rata rata selisih kuadrat antara nilai prediksi dan nilai aktual. Nilai prediksi adalah harga barang bekas. Semakin kecil nilai MSE, semakin baik prediksi model
 
 2.   Root Mean Squared Error (RMSE)
 
-> Teknik mengukur kesalahan model dengan mengakarkan hasil MSE. Semakin kecil nilai RMSE semakin baik.
+> RMSE adalah hasil akar dari MSE. RMSE mengukur kesalahan umum dari prediksi model. Semakin kecil nilai RMSE, semakin baik prediksi model
 
 3.   R-Squared (R^2)
 
-> Besaran ukuran untuk melihat performa model dalam menjelaskan variabilitas data. Semakin besar nilai R^2 semakin baik
+> Besaran untuk melihat proporsi varians dari variabel data yang dapat diprediksi. Semakin besar nilai R^2, semakin baik model dalam menangkap variabilitas data 
 
 # **Income Classification:**
 Metriks Evaluasi
