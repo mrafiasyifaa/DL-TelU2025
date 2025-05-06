@@ -1,2 +1,2 @@
 # DL-TelU2025
-Kelas Deep Learning TelU
+Deep Learning Class for Computer Engineering in TelU 2025
