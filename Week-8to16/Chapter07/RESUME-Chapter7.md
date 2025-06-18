@@ -19,8 +19,6 @@ Ensemble Learning adalah pendekatan yang menggabungkan **beberapa model predikti
 * **Bagging (Bootstrap Aggregating)**: model-model dilatih secara independen pada data berbeda.
 * **Boosting**: model dilatih secara bertahap, di mana setiap model mencoba memperbaiki kesalahan dari model sebelumnya.
 
----
-
 ## 🌲 Random Forest: Penerapan Bagging pada Decision Trees
 
 ### • **Apa itu Random Forest?**
