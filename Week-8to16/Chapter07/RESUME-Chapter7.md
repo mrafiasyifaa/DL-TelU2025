@@ -8,7 +8,7 @@
 
 Ensemble Learning adalah pendekatan yang menggabungkan **beberapa model prediktif** untuk menghasilkan **prediksi yang lebih akurat dan stabil** dibandingkan model tunggal.
 
-### • **Tujuan**
+### **Tujuan**
 
 * Mengurangi **bias** (kesalahan sistematis)
 * Mengurangi **varian** (sensitivitas terhadap data)
